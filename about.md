@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I do machine learning/software development for living.
+I do software and data science for living.
 
 ### Contact me
 
