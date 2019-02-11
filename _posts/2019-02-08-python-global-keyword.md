@@ -1,8 +1,6 @@
 
 # On Python's `global` keyword
 
-... and Python3's `nonlocal`
-
 *Some a year ago I got confused about when (not) to use `global`. Then I learnt about proper usage and decided to write a blog about it. It took some time but here it is, my very first short blog programming blog post.*
 
 Even though I knew about the `global` keyword, I had no need to use it. Most cases when I work with global variable look like this one:
